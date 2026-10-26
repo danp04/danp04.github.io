@@ -67,7 +67,7 @@ In order to invite a collaborator to your repository:
 
 ## Important commands in Git
 
-In the table below you can find useful commands being used on GitHub and GitHub Desktop. Familiarise with them to properly manage your workflow, add content, or make changes.
+In the table below you can find useful commands being used on GitHub and GitHub Desktop. Familiarize with them to properly manage your workflow, add content, or make changes.
 
 
 | Action | Command |GitHub Desktop Client
